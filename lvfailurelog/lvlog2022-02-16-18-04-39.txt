@@ -1,0 +1,4440 @@
+####
+#Date: Tue, Feb 15, 2022 4:58:48 PM
+#OSName: Windows 10 Home 
+#OSVers: 10.0
+#OSBuild: 19042
+#AppName: LabVIEW
+#Version: 20.0.1f1 32-bit
+#AppKind: FDS
+#AppModDate: 0/28/2021 06:31 GMT
+#LabVIEW Base Address: 0x00360000
+
+
+RefObjectPtrValidityChecker::Init (arbRetry): LogOnly=FALSE
+InitExecSystem() call to GetCurrProcessNumProcessors() reports: 8 processors
+InitExecSystem() call to GetNumProcessors()            reports: 8 processors
+InitExecSystem()                                      will use: 8 processors
+starting LabVIEW Execution System 2 Thread 0 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+starting LabVIEW Execution System 2 Thread 1 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+starting LabVIEW Execution System 2 Thread 2 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+starting LabVIEW Execution System 2 Thread 3 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+starting LabVIEW Execution System 2 Thread 4 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+starting LabVIEW Execution System 2 Thread 5 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+starting LabVIEW Execution System 2 Thread 6 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+starting LabVIEW Execution System 2 Thread 7 , capacity: 24 at [3727810734.00828743, (16:58:54.008287430 2022:02:15)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:33.296 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+minidump id: 852eaae7-5ea7-4f67-9004-3adac2bc7488
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:37.013 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+minidump id: 879bf1d1-6ca2-45c5-96fb-38c94fd66546
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:38.827 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+minidump id: b49f3a31-3a16-45a5-b948-3937efad3413
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:42.442 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+minidump id: 317715ed-948d-45c3-92ce-84a7a4ccf77e
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:42.453 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:42.465 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:42.729 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:42.742 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:42.757 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.032 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.038 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.045 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.226 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.232 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.237 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.429 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.440 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.450 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.661 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.673 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.684 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.894 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.900 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:43.907 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.089 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.096 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.102 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.286 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.294 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.304 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.498 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.505 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.510 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.865 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.872 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:44.878 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.064 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.077 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.083 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.297 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.309 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.318 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.625 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.635 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.644 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.855 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.862 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:45.867 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.187 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.196 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.411 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.420 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.429 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.436 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.504 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.512 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.525 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.533 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.582 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.589 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.596 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.602 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.609 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.614 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.619 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.625 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.635 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.641 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.648 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.746 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.751 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.759 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.766 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.844 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.854 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.871 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.883 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:46.994 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x012AFF9E - LabVIEW <unknown> + 0
+0x012B3405 - LabVIEW <unknown> + 0
+0x01308BA2 - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.017 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.032 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.050 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.059 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.388 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.398 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.405 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.411 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.419 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.428 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.523 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.529 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.537 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.543 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.548 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.556 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.563 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.637 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.649 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.659 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.665 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568FEC2C - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+
+<DEBUG_OUTPUT>
+2/15/2022 5:25:47.671 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00577EE9 - LabVIEW <unknown> + 0
+0x56A2F909 - mgcore_SH_20_0 <unknown> + 0
+0x56A3070C - mgcore_SH_20_0 <unknown> + 0
+0x569428DB - tdcore_20_0 <unknown> + 0
+0x568D07A1 - tdcore_20_0 <unknown> + 0
+0x568D5DFB - tdcore_20_0 <unknown> + 0
+0x013930A9 - LabVIEW <unknown> + 0
+0x01325F36 - LabVIEW <unknown> + 0
+0x012B6FB1 - LabVIEW <unknown> + 0
+0x012B7F9E - LabVIEW <unknown> + 0
+0x012AFC80 - LabVIEW <unknown> + 0
+0x0130569F - LabVIEW <unknown> + 0
+0x01308CBA - LabVIEW <unknown> + 0
+0x00509ABE - LabVIEW <unknown> + 0
+0x01143C13 - LabVIEW <unknown> + 0
+0x51FF9BCA - lvdesktop <unknown> + 0
+0x51FE8339 - lvdesktop <unknown> + 0
+0x77E27617 - lvpc <unknown> + 0
+0x77E2751F - lvpc <unknown> + 0
+0x77E273BF - lvpc <unknown> + 0
+0x77E32FF5 - lvpc <unknown> + 0
+0x77E361F7 - lvpc <unknown> + 0
+0x0198502C - LabVIEW <unknown> + 0
+0x01119CBE - LabVIEW <unknown> + 0
+0x01119B07 - LabVIEW <unknown> + 0
+0x01157374 - LabVIEW <unknown> + 0
+0x01154FCE - LabVIEW <unknown> + 0
+0x01154B72 - LabVIEW <unknown> + 0
+0x0115CF72 - LabVIEW <unknown> + 0
+0x011F09B6 - LabVIEW <unknown> + 0
+0x51FF604C - lvdesktop <unknown> + 0
+0x51FF6191 - lvdesktop <unknown> + 0
+0x51FFBF50 - lvdesktop <unknown> + 0
+0x011EF15A - LabVIEW <unknown> + 0
+0x011EFB04 - LabVIEW <unknown> + 0
+0x011F01E7 - LabVIEW <unknown> + 0

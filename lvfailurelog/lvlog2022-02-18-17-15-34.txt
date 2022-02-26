@@ -1,0 +1,94 @@
+####
+#Date: Fri, Feb 18, 2022 3:54:04 PM
+#OSName: Windows 10 Home 
+#OSVers: 10.0
+#OSBuild: 19042
+#AppName: LabVIEW
+#Version: 20.0.1f1 32-bit
+#AppKind: FDS
+#AppModDate: 0/28/2021 06:31 GMT
+#LabVIEW Base Address: 0x004F0000
+
+
+RefObjectPtrValidityChecker::Init (arbRetry): LogOnly=FALSE
+InitExecSystem() call to GetCurrProcessNumProcessors() reports: 8 processors
+InitExecSystem() call to GetNumProcessors()            reports: 8 processors
+InitExecSystem()                                      will use: 8 processors
+starting LabVIEW Execution System 2 Thread 0 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 2 Thread 1 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 2 Thread 2 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 2 Thread 3 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 2 Thread 4 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 2 Thread 5 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 2 Thread 6 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 2 Thread 7 , capacity: 24 at [3728066049.47861099, (15:54:09.478610993 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 0 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 1 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 2 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 3 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 4 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 5 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 6 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+starting LabVIEW Execution System 1 Thread 7 , capacity: 24 at [3728070738.27780151, (17:12:18.277801514 2022:02:18)]
+
+<DEBUG_OUTPUT>
+2/18/2022 5:13:25.134 PM
+DWarn 0xD435AA6A: We calculated the wrong size.
+source\tdcore\TD.cpp(2407) : DWarn 0xD435AA6A: We calculated the wrong size.
+minidump id: 8d62bd5f-7ac2-43b6-9504-44eba64129fb
+$Id: //labview/components/tdcore/trunk/20.0/source/tdcore/TD.cpp#3 $
+
+</DEBUG_OUTPUT>
+0x00707EE9 - LabVIEW <unknown> + 0
+0x51F4F909 - mgcore_SH_20_0 <unknown> + 0
+0x51F5070C - mgcore_SH_20_0 <unknown> + 0
+0x51E228DB - tdcore_20_0 <unknown> + 0
+0x51DDEC2C - tdcore_20_0 <unknown> + 0
+0x51DB07A1 - tdcore_20_0 <unknown> + 0
+0x51DB5DFB - tdcore_20_0 <unknown> + 0
+0x015230A9 - LabVIEW <unknown> + 0
+0x014B5F36 - LabVIEW <unknown> + 0
+0x01446FB1 - LabVIEW <unknown> + 0
+0x01447F9E - LabVIEW <unknown> + 0
+0x0143FC80 - LabVIEW <unknown> + 0
+0x0143FF9E - LabVIEW <unknown> + 0
+0x01443405 - LabVIEW <unknown> + 0
+0x01498BA2 - LabVIEW <unknown> + 0
+0x00699ABE - LabVIEW <unknown> + 0
+0x012D3C13 - LabVIEW <unknown> + 0
+0x50419BCA - lvdesktop <unknown> + 0
+0x50408339 - lvdesktop <unknown> + 0
+0x7AAE7617 - lvpc <unknown> + 0
+0x7AAE751F - lvpc <unknown> + 0
+0x7AAE73BF - lvpc <unknown> + 0
+0x7AAF2FF5 - lvpc <unknown> + 0
+0x7AAF61F7 - lvpc <unknown> + 0
+0x01B1502C - LabVIEW <unknown> + 0
+0x012A9CBE - LabVIEW <unknown> + 0
+0x012A9B07 - LabVIEW <unknown> + 0
+0x012E7374 - LabVIEW <unknown> + 0
+0x012E4FCE - LabVIEW <unknown> + 0
+0x012E4B72 - LabVIEW <unknown> + 0
+0x012ECF72 - LabVIEW <unknown> + 0
+0x013809B6 - LabVIEW <unknown> + 0
+0x5041604C - lvdesktop <unknown> + 0
+0x50416191 - lvdesktop <unknown> + 0
+0x5041DE65 - lvdesktop <unknown> + 0
+0x5042FF23 - lvdesktop <unknown> + 0
+stopping LabVIEW Execution System 1 Thread 0 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 1 Thread 1 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 1 Thread 2 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 1 Thread 3 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 1 Thread 4 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 1 Thread 5 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 1 Thread 6 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 1 Thread 7 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 0 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 1 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 2 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 3 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 4 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 5 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 6 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+stopping LabVIEW Execution System 2 Thread 7 , capacity: 24 at [3728070826.72250414, (17:13:46.722504139 2022:02:18)]
+Possible path leak, unable to purge elements of base #0
